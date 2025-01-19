@@ -1,0 +1,8 @@
+.first img
+{filter: drop-shadow(15px 25px 1px green);}
+.scound img
+{filter: drop-shadow(15px 25px 1px black);}
+.third img
+{filter: drop-shadow(15px 25px 1px yellow);}
+.four img
+{filter: drop-shadow(15px 25px 1px silver);}
